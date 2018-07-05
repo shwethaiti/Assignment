@@ -17,6 +17,14 @@ div.relative {
   font-family: Helvetica;
   color: white;
 }
+
+div.absolute {
+  border: 1px;
+  background-color: grey;
+  width: 33%;
+  float: left;
+  color: white;
+}
 /* Simple Responsive Framework. */
 .row {
   width: 100%;
