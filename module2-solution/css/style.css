@@ -25,6 +25,10 @@ div.absolute {
   float: left;
   color: white;
 }
+
+.clearfix {
+    overflow: auto;
+}
 /* Simple Responsive Framework. */
 .row {
   width: 100%;
