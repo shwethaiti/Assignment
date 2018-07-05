@@ -32,6 +32,8 @@ h2 {
 .absolute {
   border: 1px;
   background-color: grey;
+  top: 0px;
+  padding: 5px;
   width: 100%;
   float: left;
   color: white;
