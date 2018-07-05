@@ -9,20 +9,17 @@ h1 {
 
 h2 {
   margin: 0px;
-  
-}
-
-.relative {
-  border: 1px solid black;
+  color: white;
+  border: 1px;
+  width: 30%;
+  height: 20px;
   background-color: #A52A2A;
-  width: auto;
-  height: auto;
   top: 0px;
   right: 0px;
-  font-family: Helvetica;
-  color: white;
-  position: relative;
+
 }
+
+
 
 .left, .right, .middle{
   float:left;
