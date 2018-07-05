@@ -8,8 +8,10 @@ h1 {
 div.relative {
   border: 1px solid black;
   background-color: #A52A2A;
-  width: 90%;
-  height: 150px;
+  width: 20%;
+  height: 10%;
+  top: 0px;
+  right: 0px;
   margin-right: auto;
   margin-left: auto;
   font-family: Helvetica;
