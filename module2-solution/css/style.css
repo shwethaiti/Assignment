@@ -20,11 +20,15 @@ h1 {
   position: relative;
 }
 
-.details {
-    border: 1px solid grey;
-    margin: 5px;
-    padding: 8px;
+.left, .right, .middle{
+  background-color: red;
+  padding:20px;
+  float:left;
+  width:20%;
+  box-sizing: border-box;
+  border-spacing: auto; /* The width is 20%, by default */
 }
+
 
 
 .absolute {
