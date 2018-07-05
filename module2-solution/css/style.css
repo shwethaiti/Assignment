@@ -9,7 +9,8 @@ h1 {
 
 h2 {
   float: right;
-  clear: left;
+  margin-top: 0px;
+  margin-right: 0px;
   color: white;
   border: 1px;
   width: 30%;
