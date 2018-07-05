@@ -1,18 +1,6 @@
 * {
   box-sizing: border-box;
-  float: left;
-    width: 33.33%;
-    padding: 50px;
-    background-color: lightblue;
-    background-position: relative;
-}
 
-.box {
-    float: left;
-    width: 33.33%;
-    padding: 50px;
-    background-color: lightblue;
-    background-position: relative;
 }
 
 div.relative {
