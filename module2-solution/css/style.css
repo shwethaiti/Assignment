@@ -28,7 +28,15 @@ h2 {
    /* The width is 20%, by default */
 }
 
-
+.relative {
+  border: 1px solid black;
+  background-color: #A52A2A;
+  top: 0px;
+  right: 0px;
+  font-family: Helvetica;
+  color: white;
+  position: relative;
+}
 
 .absolute {
   border: 1px;
