@@ -21,7 +21,7 @@ div.relative {
 div.absolute {
   border: 1px;
   background-color: grey;
-  width: 33%;
+  width: 100%;
   float: left;
   color: white;
 }
