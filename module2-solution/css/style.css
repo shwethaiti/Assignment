@@ -22,8 +22,7 @@ h1 {
 .left, .right, .middle{
   float:left;
   width:100%;
-  box-sizing: border-box;
-  border-spacing: auto; /* The width is 20%, by default */
+   /* The width is 20%, by default */
 }
 
 
