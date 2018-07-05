@@ -13,6 +13,7 @@ div.relative {
   top: 0px;
   right: 0px;
   margin-right: 0px;
+  margin-left: auto;
   font-family: Helvetica;
   color: white;
 }
