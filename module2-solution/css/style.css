@@ -20,6 +20,11 @@ h2 {
   position: relative;
 }
 
+.section{
+  margin:5px;
+  padding: 10px;
+  box-sizing: border-box;
+}
 .absolute {
   border: 1px;
   background-color: grey;
