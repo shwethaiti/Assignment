@@ -20,8 +20,6 @@ h1 {
 }
 
 .left, .right, .middle{
-  background-color: red;
-  padding:20px;
   float:left;
   width:100%;
   box-sizing: border-box;
