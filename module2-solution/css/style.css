@@ -9,7 +9,7 @@ h1 {
   font-size: 175%;
 }
 
-.para {
+h2 {
   float: right;
   margin-top: 0px;
   margin-right: 0px;
@@ -27,11 +27,11 @@ h1 {
   background-color: lightgreen;
 }
 
-#title1 {
+#title2 {
   background-color: orange;
 }
 
-#title1 {
+#title3 {
   background-color: pink;
 }
 
