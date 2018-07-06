@@ -11,6 +11,7 @@ h1 {
 }
 
 h2 {
+  float: right;
   margin-top: 0px;
   margin-right: 0px;
   color: white;
@@ -20,8 +21,7 @@ h2 {
   text-align: right;
   position: absolute;
   background-color: green;
-  top: 0px;
-  right: 0px;
+
 }
 
 
