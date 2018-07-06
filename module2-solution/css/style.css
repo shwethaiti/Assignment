@@ -2,47 +2,48 @@
   box-sizing: border-box;
   margin: 0;
   }
-body {
-    background-image: url(https://japan-magazine.jnto.go.jp/jnto2wm/wp-content/uploads/1608_special_TOTO_main.jpg);
-    background-size: cover;
-}  
+  
 h1 {
   text-align: center;
   margin-bottom: 30px;
   margin-top: 30px;
+  font-size: 175%;
 }
 .col-lg-4, .col-md-6, .col-md-12 {
   position: relative;
   margin-right: auto;
   margin-left: auto;
-  width: 90%;
+  width: 100%;
   margin-bottom: 30px;
 }
   
-#box1 #content1, #box2 #content2, #box3 #content3{
+#left #content1, #middle #content2, #right #content3{
   padding: 25px 20px 10px 10px;
   background-color: #86D2FE;
   border: 2px solid black;
   height: 120px;
   overflow: auto;
 }
-#box1 #section1, #box2 #section2, #box3 #section3 {
+#left #section1, #middle #section2, #right #section3 {
   position: absolute;
   top: 0;
   right: 0;
   
 }
 #section1 {
-  background-color: #FB9191;
+  background-color: blue;
   border: 2px solid black;
+  font-size: 125%;
 }
 #section2 {
-  background-color: #FBF491;
+  background-color: lightgreen;
   border: 2px solid black;
+  font-size: 125%;
 }
 #section3 {
-  background-color: #91FB9B;
+  background-color: orange;
   border: 2px solid black;
+  font-size: 125%;
 }
 .container {
   width: 100%;
@@ -125,7 +126,7 @@ h1 {
   .col-md-11 {
     width: 91.66%;
   }
-  #box3.col-md-12 {
+  #right.col-md-12 {
     width: 100%;
   }
 }
