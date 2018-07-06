@@ -12,13 +12,13 @@ h1 {
 
 h2 {
   float: left;
+   clear: left;
   margin-top: 0px;
   margin-right: 0px;
   color: white;
   border: 1px solid black;
   color: #A52A2A;
   font-size: 125%;
-  text-align: right;
   position: absolute;
   background-color: green;
 
