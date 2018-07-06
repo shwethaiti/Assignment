@@ -17,13 +17,22 @@ h2 {
   border: 1px;
   width: auto;
   height: 20%;
-  background-color: #A52A2A;
   top: 0px;
   right: 0px;
   text-align: center;
   font-size: 125%;
+}
 
+#title1 {
+  background-color: lightgreen;
+}
 
+#title1 {
+  background-color: orange;
+}
+
+#title1 {
+  background-color: pink;
 }
 
 
