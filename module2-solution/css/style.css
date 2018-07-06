@@ -22,7 +22,7 @@ h2 {
   right: 0px;
   text-align: center;
   font-size: 125%;
-  border-collapse: right;
+
 
 }
 
@@ -33,6 +33,7 @@ h2 {
   width:33.33%;
   box-sizing: border-box;
   padding: 10px;
+  overflow: auto;
    /* The width is 20%, by default */
 }
 
