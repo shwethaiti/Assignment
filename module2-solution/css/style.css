@@ -38,6 +38,7 @@ h2 {
   font-family: Helvetica;
   color: white;
   position: relative;
+  width: auto;
 }
 
 .absolute {
