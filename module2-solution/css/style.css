@@ -24,6 +24,7 @@ h1 {
   border: 2px solid black;
   height: 120px;
   overflow: auto;
+  font-size: 10px;
 }
 #left #section1, #middle #section2, #right #section3 {
   position: absolute;
@@ -33,17 +34,17 @@ h1 {
 }
 #section1 {
   background-color: blue;
-  border: 2px solid black;
+  border: 1px solid black;
   font-size: 125%;
 }
 #section2 {
   background-color: lightgreen;
-  border: 2px solid black;
+  border: 1px solid black;
   font-size: 125%;
 }
 #section3 {
   background-color: orange;
-  border: 2px solid black;
+  border: 1px solid black;
   font-size: 125%;
 }
 .container {
