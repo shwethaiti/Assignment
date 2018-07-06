@@ -32,7 +32,6 @@ h2 {
   float:left;
   width:33.33%;
   box-sizing: border-box;
-  padding: 10px;
   overflow: auto;
    /* The width is 20%, by default */
 }
@@ -42,7 +41,7 @@ h2 {
   color: white;
   position: relative;
   width: auto;
-  padding: 5px;
+  
 }
 
 .absolute {
