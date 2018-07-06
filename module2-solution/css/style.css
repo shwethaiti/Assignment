@@ -23,8 +23,7 @@ h1 {
   border: 2px solid black;
   height: 120px;
   overflow: auto;
-  position: relative;
-  padding: 10px;
+   padding: 10px;
 }
 #left #section1, #middle #section2, #right #section3 {
   position: absolute;
