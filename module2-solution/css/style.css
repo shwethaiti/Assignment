@@ -14,7 +14,7 @@ h2 {
   margin-right: 0px;
   color: white;
   border: 1px;
-  width: 30%;
+  width: auto;
   height: 20%;
   background-color: #A52A2A;
   top: 0px;
@@ -28,7 +28,7 @@ h2 {
 
 .left, .right, .middle{
   float:left;
-  width:100%;
+  width:33.33%;
   box-sizing: border-box;
   padding: 10px;
    /* The width is 20%, by default */
