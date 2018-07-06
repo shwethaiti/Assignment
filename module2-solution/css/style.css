@@ -53,6 +53,12 @@ h2 {
 
 }
 
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
 @media screen (min-width: 786px) and (max-width: 992px) {
   .column {
     width: 50%;
