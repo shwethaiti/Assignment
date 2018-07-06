@@ -32,6 +32,10 @@ h2 {
     margin: 1% 0.165%;
     padding: 0 15px;
     border: 1px solid black;
+    font-family: Helvetica;
+    color: white;
+    position: relative;
+    padding: 5px;
 }
 
 .absolute {
