@@ -21,7 +21,7 @@ h1 {
   padding: 25px 20px 10px 10px;
   background-color: #86D2FE;
   border: 2px solid black;
-  height: auto;
+  height: 300px;
   overflow: auto;
 }
 #left #section1, #middle #section2, #right #section3 {
