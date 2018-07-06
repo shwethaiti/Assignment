@@ -20,6 +20,8 @@ h2 {
   text-align: right;
   position: absolute;
   background-color: green;
+  top: 0px;
+  right: 0px;
 }
 
 
