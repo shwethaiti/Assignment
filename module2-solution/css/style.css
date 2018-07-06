@@ -7,7 +7,7 @@ h1 {
   text-align: center;
   margin-bottom: 30px;
   margin-top: 30px;
-  font-size: 175%;
+  font-size: 75%;
 }
 .col-lg-4, .col-md-6, .col-md-12 {
   position: relative;
@@ -24,7 +24,7 @@ h1 {
   border: 2px solid black;
   height: 120px;
   overflow: auto;
-  font-size: 10px;
+  
 }
 #left #section1, #middle #section2, #right #section3 {
   position: absolute;
@@ -35,17 +35,17 @@ h1 {
 #section1 {
   background-color: blue;
   border: 1px solid black;
-  font-size: 125%;
+  font-size: 25%;
 }
 #section2 {
   background-color: lightgreen;
   border: 1px solid black;
-  font-size: 125%;
+  font-size: 25%;
 }
 #section3 {
   background-color: orange;
   border: 1px solid black;
-  font-size: 125%;
+  font-size: 25%;
 }
 .container {
   width: 100%;
