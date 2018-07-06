@@ -36,17 +36,17 @@ h1 {
 #section1 {
   background-color: blue;
   border: 2px solid black;
-  font-size: 125%;
+  ;
 }
 #section2 {
   background-color: lightgreen;
   border: 2px solid black;
-  font-size: 125%;
+  
 }
 #section3 {
   background-color: orange;
   border: 2px solid black;
-  font-size: 125%;
+  
 }
 .container {
   width: 100%;
