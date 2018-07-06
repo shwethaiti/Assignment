@@ -1,4 +1,3 @@
-
 * {
   box-sizing: border-box;
 }
@@ -11,21 +10,16 @@ h1 {
 }
 
 h2 {
-  float: left;
-   clear: left;
   margin-top: 0px;
   margin-right: 0px;
-  margin-bottom: 5px;
-  padding: 0 10px;
   color: white;
   border: 1px solid black;
-  color: #A52A2A;
-  font-size: 125%;
-  position: absolute;
   background-color: green;
-
+  color: #A52A2A;
+  text-align: center;
+  font-size: 125%;
+  text-align: right;
 }
-
 
 
 .column{
