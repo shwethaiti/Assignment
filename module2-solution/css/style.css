@@ -22,21 +22,22 @@ h2 {
   text-align: center;
   font-size: 125%;
   padding: 5px;
+  border: 1px solid black;
 }
 
 #title1 {
   background-color: lightgreen;
-  border: 1px solid black;
+ 
 }
 
 #title2 {
   background-color: orange;
-  border: 1px solid black;
+  
 }
 
 #title3 {
   background-color: #c922bb;
-  border: 1px solid black;
+ 
 
 
 
@@ -57,7 +58,7 @@ h2 {
   width: auto;
   padding: 5px;
   height: 120px;
-  border: 1px;
+  border: 1px solid black;
   
 }
 
@@ -70,6 +71,7 @@ h2 {
   float: left;
   color: white;
   border: 1px;
+  border: 1px solid black;
   
 }
 
