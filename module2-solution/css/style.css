@@ -16,7 +16,7 @@ h1 {
   margin-bottom: 30px;
 }
   
-#left #title1, #middle #ttitle2, #right #title3{
+#left #content1, #middle #content2, #right #content3{
   padding: 25px 20px 10px 10px;
   background-color: #86D2FE;
   border: 2px solid black;
@@ -30,16 +30,16 @@ h1 {
   
 }
 #section1 {
-  background-color: #FB9191;
-  border: 2px solid black;
+  background-color: lightgreen;
+  border: 1px solid black;
 }
 #section2 {
-  background-color: #FBF491;
-  border: 2px solid black;
+  background-color: purple;
+  border: 1px solid black;
 }
 #section3 {
-  background-color: #91FB9B;
-  border: 2px solid black;
+  background-color: yellow;
+  border: 1px solid black;
 }
 .container {
   width: 100%;
