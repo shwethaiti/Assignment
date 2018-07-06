@@ -26,14 +26,17 @@ h2 {
 
 #title1 {
   background-color: lightgreen;
+  border: 1px;
 }
 
 #title2 {
   background-color: orange;
+  border: 1px;
 }
 
 #title3 {
   background-color: #c922bb;
+  border: 1px;
 }
 
 
@@ -79,6 +82,7 @@ h2 {
   width: 100%;
   margin-bottom: 30px;
   padding: 10px;
+  border: 1px;
 }
   
 
