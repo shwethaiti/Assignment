@@ -28,7 +28,7 @@ h2 {
 
 .left, .right, .middle{
   float:left;
-  width:33.33%;
+  width:100%;
   box-sizing: border-box;
   padding: 10px;
    /* The width is 20%, by default */
