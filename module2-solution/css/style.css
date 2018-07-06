@@ -14,9 +14,8 @@ h2 {
   margin-top: 0px;
   margin-right: 0px;
   color: white;
-  border: 1px;
+  border: 1px solid black;
   color: #A52A2A;
-  text-align: center;
   font-size: 125%;
   text-align: right;
   position: relative;
